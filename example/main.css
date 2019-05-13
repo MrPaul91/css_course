@@ -1,0 +1,13 @@
+
+.box {
+   line-height: 200px;
+}
+
+.box .imgBx img {
+   border-radius: 50%;
+   width: 140px;
+   height: 200px;
+   float: left;
+   margin-left: 10px;
+   margin-top: 20px;
+}
